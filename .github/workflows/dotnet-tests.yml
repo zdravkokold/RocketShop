@@ -20,7 +20,7 @@ jobs:
       Solution_Name: TodoMVC.sln               
       Test_Project_Path: TodoMVC.csproj
       Wap_Project_Directory: TodoMVC.Package    
-      Wap_Project_Path: your-wap-project-path
+      Wap_Project_Path: TodoMVC.Package
 
     steps:
     - name: Checkout
